@@ -43,7 +43,7 @@ python Formula1LapTimeVisualiser.py
 python3 Formula1LapTimeVisualiser.py
 ```
 - Then follow the prompts as listed
-- *Notes: python and python3 can both be used, however depends on os, (python3 for Mac or Linux, and python for Windows)
+- *Notes: python and python3 can both be used, however depends on OS, (python3 for Mac or Linux, and python for Windows)
 
 ---
 
