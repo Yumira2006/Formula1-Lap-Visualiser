@@ -22,7 +22,7 @@ Compare races, drivers, and tyre strategies from 2018–2024 with interactive pr
 ---
 
 ## Example Output
-![Example Plot](images/verstappen_VS_Hamilton_AbuDhabi_2021.png)  
+![Example Plot](verstappen_VS_Hamilton_AbuDhabi_2021.png)  
 *Example: Verstappen vs Hamilton – Abu Dhabi Grand Prix 2021.*
 
 ---
