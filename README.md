@@ -1,6 +1,6 @@
-# F1 Lap Time Visualizer
+# F1 Lap Time Visualiser
 
-Visualize Formula 1 lap times by tyre compound using the [FastF1](https://theoehrly.github.io/Fast-F1/) API and Matplotlib.  
+Visualise Formula 1 lap times by tyre compound using the [FastF1](https://theoehrly.github.io/Fast-F1/) API and Matplotlib.  
 Compare races, drivers, and tyre strategies from 2018–2024 with interactive prompts.
 
 ---
